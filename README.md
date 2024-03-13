@@ -6,6 +6,6 @@ This simple transaction program is written in Motoko.
 
 ## Screenshot
 
-Design and assets provided by Angela.
+Design and assets provided by Angela. I am responsible for the backend process and some minor UX updates.
 
 ![DBank homepage view](./dbank.png)
