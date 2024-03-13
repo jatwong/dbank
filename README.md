@@ -8,4 +8,4 @@ This simple transaction program is written in Motoko.
 
 Design and assets provided by Angela.
 
-![DBank homepage view](dbank.png)
+![DBank homepage view](./dbank.png)
